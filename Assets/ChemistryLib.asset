@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ChemistryLib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5368256886053596606
+  m_GuidHigh: 16296495746826906040
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4711189803190932649
+      m_GuidHigh: 7607417814244738720
+    m_SerializedTextureGuid:
+      m_GuidLow: 17122718989372894013
+      m_GuidHigh: 3697204257221451016
+    m_Size: {x: 0.1, y: 0.17142858}
+    m_SpecifySize: 1
+    m_Name: Hydrogen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5214622275464277515
+      m_GuidHigh: 7572365848096341145
+    m_SerializedTextureGuid:
+      m_GuidLow: 9869780760826225479
+      m_GuidHigh: 10466907356894549131
+    m_Size: {x: 0.1, y: 0.17142858}
+    m_SpecifySize: 1
+    m_Name: Oxygen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5602065248105129272
+      m_GuidHigh: 4472568483052339631
+    m_SerializedTextureGuid:
+      m_GuidLow: 16373290615364075490
+      m_GuidHigh: 13263932523153208921
+    m_Size: {x: 0.1, y: 0.17142858}
+    m_SpecifySize: 1
+    m_Name: Carbon
+    m_Texture: {fileID: 0}
